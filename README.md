@@ -137,15 +137,3 @@ Three models trained with physics-aware evaluation:
 
 ---
 
-## CERN Internship Alignment
-This project directly targets the **CERN openlab Summer Student Programme** (Data Analytics & AI track):
-- Uses official CERN open data format and physics conventions
-- References ATLAS experiment and HL-LHC upgrade context
-- Demonstrates both ML performance *and* physics interpretability
-- Codebase is clean, documented, and reproducible
-
-*Next steps to strengthen the portfolio:*
-- Implement ParticleNet / GNN on JetClass dataset
-- Add Optuna hyperparameter tuning with AMS as objective
-- Train on the full 11M HIGGS UCI dataset
-- Write a 2-page technical report in IEEE format
